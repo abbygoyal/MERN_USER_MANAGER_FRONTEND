@@ -21,3 +21,14 @@ After forking the project, simply clone it the way you would from the new forked
 ## Install dependencies
 
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
+
+1:-"axios": "^1.3.3",
+2:-"bootstrap": "^5.2.3",
+3:-"moment": "^2.29.4",
+4:-"react": "^18.2.0",
+5:-"react-bootstrap": "^2.7.2",
+6:-"react-dom": "^18.2.0",
+7:-"react-router-dom": "^6.8.1",
+8:-"react-scripts": "5.0.1",
+9:-"react-select": "^5.7.0",
+10:-"react-toastify": "^9.1.1",
